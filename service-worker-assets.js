@@ -185,19 +185,19 @@
       "url": "_content\/Material.Blazor\/Material.min.css"
     },
     {
-      "hash": "sha256-+8wEamDe0+FQgNHZrQT+AhopbsXNbo7yS8lSfgcAuws=",
+      "hash": "sha256-z3tj\/8H4yTPLJT6rbESgChIRInL8m+3KLGWwRmbI8j0=",
       "url": "_content\/Material.Blazor\/MaterialBlazor.css"
     },
     {
-      "hash": "sha256-UYpxcpxmzQ0EjvG7W0AAakxtUOTafPV1vOHGyUNgNYY=",
+      "hash": "sha256-Wxip8XDhLDW8nIFreYUdKN1Hi15OBhOb1jvuaJ3memQ=",
       "url": "_content\/Material.Blazor\/MaterialBlazor.js"
     },
     {
-      "hash": "sha256-Q6wkEEVTLSEwggGVh2dDNTxJOAosyZsgTEmnz3e2Sl0=",
+      "hash": "sha256-hX7XqNeX8mjCsbXrbom\/sP1RrzWBn0cta6+iAiYueEM=",
       "url": "_content\/Material.Blazor\/MaterialBlazor.min.css"
     },
     {
-      "hash": "sha256-0ZqwuBcHpAN78ouwUlho7XLA+5IqvbO8sk6HpJjmknc=",
+      "hash": "sha256-RAH7fG3Rpu2GnFCqY0l4rnI2PHxJ6sadu+TTvGtEslw=",
       "url": "_content\/Material.Blazor\/MaterialBlazor.min.js"
     },
     {
@@ -265,15 +265,15 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-+pv5D20jS7MNamO4VveL+hsOYh2dAY5TFkeixTbo2RA=",
+      "hash": "sha256-PIFiZCzaAWEf9RUwX8BsDUEqHL+gkXOEmjzmfKLmieA=",
       "url": "_framework\/Material.Blazor.dll"
     },
     {
-      "hash": "sha256-J8u10qWoqalCHus+fhYSRtDSaS8Qg\/ivukV5xBsrWvE=",
+      "hash": "sha256-uNDhJZLpDFIMmuKG7+eGy\/l+ItTdpm2yCBT\/uU9yx9o=",
       "url": "_framework\/Material.Blazor.Website.dll"
     },
     {
-      "hash": "sha256-h2fcpOqxa1wz51sj3Qc7ErVyCgua+MXrH3yppvA\/kD0=",
+      "hash": "sha256-HCHt4e0mcs\/KDtZik4mdvUfyz\/QhopvBofiYAohAWfw=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.dll"
     },
     {
@@ -377,7 +377,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-K80TbJt68fR1rNSVbafJFvfUPLoABkXTtSCJpTKpL8s=",
+      "hash": "sha256-0BYvF2GzEtiQhBfbjT1kWRRnpbnIeLSiYZyERFX8Brg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -385,5 +385,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "VoFkdmlL"
+  "version": "hMP2mb\/B"
 };

@@ -154,6 +154,9 @@ references:
 - uid: C.MBMenuSelectionGroup
   name: MBMenuSelectionGroup
   href: Material.Blazor/Components/MenuSelectionGroup/MBMenuSelectionGroup.html
+- uid: C.MBMenuSurface
+  name: MBMenuSurface
+  href: Material.Blazor/Components/MenuSurface/MBMenuSurface.html
 - uid: C.MBNumericDecimalField
   name: MBNumericDecimalField
   href: Material.Blazor/Components/NumericDecimalField/MBNumericDecimalField.html
@@ -7227,6 +7230,90 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.MBMenuSelectionGroup.ChildContent
   nameWithType: MBMenuSelectionGroup.ChildContent
+- uid: Material.Blazor.MBMenuSurface
+  name: MBMenuSurface
+  href: api/Material.Blazor.MBMenuSurface.html
+  commentId: T:Material.Blazor.MBMenuSurface
+  fullName: Material.Blazor.MBMenuSurface
+  nameWithType: MBMenuSurface
+- uid: Material.Blazor.MBMenuSurface.ChildContent
+  name: ChildContent
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_ChildContent
+  commentId: P:Material.Blazor.MBMenuSurface.ChildContent
+  fullName: Material.Blazor.MBMenuSurface.ChildContent
+  nameWithType: MBMenuSurface.ChildContent
+- uid: Material.Blazor.MBMenuSurface.ChildContent*
+  name: ChildContent
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_ChildContent_
+  commentId: Overload:Material.Blazor.MBMenuSurface.ChildContent
+  isSpec: "True"
+  fullName: Material.Blazor.MBMenuSurface.ChildContent
+  nameWithType: MBMenuSurface.ChildContent
+- uid: Material.Blazor.MBMenuSurface.Dispose(System.Boolean)
+  name: Dispose(Boolean)
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_Dispose_System_Boolean_
+  commentId: M:Material.Blazor.MBMenuSurface.Dispose(System.Boolean)
+  fullName: Material.Blazor.MBMenuSurface.Dispose(System.Boolean)
+  nameWithType: MBMenuSurface.Dispose(Boolean)
+- uid: Material.Blazor.MBMenuSurface.Dispose*
+  name: Dispose
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_Dispose_
+  commentId: Overload:Material.Blazor.MBMenuSurface.Dispose
+  isSpec: "True"
+  fullName: Material.Blazor.MBMenuSurface.Dispose
+  nameWithType: MBMenuSurface.Dispose
+- uid: Material.Blazor.MBMenuSurface.MenuSurfacePositioning
+  name: MenuSurfacePositioning
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_MenuSurfacePositioning
+  commentId: P:Material.Blazor.MBMenuSurface.MenuSurfacePositioning
+  fullName: Material.Blazor.MBMenuSurface.MenuSurfacePositioning
+  nameWithType: MBMenuSurface.MenuSurfacePositioning
+- uid: Material.Blazor.MBMenuSurface.MenuSurfacePositioning*
+  name: MenuSurfacePositioning
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_MenuSurfacePositioning_
+  commentId: Overload:Material.Blazor.MBMenuSurface.MenuSurfacePositioning
+  isSpec: "True"
+  fullName: Material.Blazor.MBMenuSurface.MenuSurfacePositioning
+  nameWithType: MBMenuSurface.MenuSurfacePositioning
+- uid: Material.Blazor.MBMenuSurface.NotifyClosed
+  name: NotifyClosed()
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_NotifyClosed
+  commentId: M:Material.Blazor.MBMenuSurface.NotifyClosed
+  fullName: Material.Blazor.MBMenuSurface.NotifyClosed()
+  nameWithType: MBMenuSurface.NotifyClosed()
+- uid: Material.Blazor.MBMenuSurface.NotifyClosed*
+  name: NotifyClosed
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_NotifyClosed_
+  commentId: Overload:Material.Blazor.MBMenuSurface.NotifyClosed
+  isSpec: "True"
+  fullName: Material.Blazor.MBMenuSurface.NotifyClosed
+  nameWithType: MBMenuSurface.NotifyClosed
+- uid: Material.Blazor.MBMenuSurface.OnInitializedAsync
+  name: OnInitializedAsync()
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_OnInitializedAsync
+  commentId: M:Material.Blazor.MBMenuSurface.OnInitializedAsync
+  fullName: Material.Blazor.MBMenuSurface.OnInitializedAsync()
+  nameWithType: MBMenuSurface.OnInitializedAsync()
+- uid: Material.Blazor.MBMenuSurface.OnInitializedAsync*
+  name: OnInitializedAsync
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_OnInitializedAsync_
+  commentId: Overload:Material.Blazor.MBMenuSurface.OnInitializedAsync
+  isSpec: "True"
+  fullName: Material.Blazor.MBMenuSurface.OnInitializedAsync
+  nameWithType: MBMenuSurface.OnInitializedAsync
+- uid: Material.Blazor.MBMenuSurface.ToggleAsync
+  name: ToggleAsync()
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_ToggleAsync
+  commentId: M:Material.Blazor.MBMenuSurface.ToggleAsync
+  fullName: Material.Blazor.MBMenuSurface.ToggleAsync()
+  nameWithType: MBMenuSurface.ToggleAsync()
+- uid: Material.Blazor.MBMenuSurface.ToggleAsync*
+  name: ToggleAsync
+  href: api/Material.Blazor.MBMenuSurface.html#Material_Blazor_MBMenuSurface_ToggleAsync_
+  commentId: Overload:Material.Blazor.MBMenuSurface.ToggleAsync
+  isSpec: "True"
+  fullName: Material.Blazor.MBMenuSurface.ToggleAsync
+  nameWithType: MBMenuSurface.ToggleAsync
 - uid: Material.Blazor.MBMenuSurfacePositioning
   name: MBMenuSurfacePositioning
   href: api/Material.Blazor.MBMenuSurfacePositioning.html

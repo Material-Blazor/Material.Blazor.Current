@@ -6151,6 +6151,13 @@
             init: () => MBMenu_init,
             show: () => MBMenu_show
         });
+        var MBMenuSurface_namespaceObject = {};
+        __webpack_require__.r(MBMenuSurface_namespaceObject);
+        __webpack_require__.d(MBMenuSurface_namespaceObject, {
+            hide: () => MBMenuSurface_hide,
+            init: () => MBMenuSurface_init,
+            show: () => MBMenuSurface_show
+        });
         var MBRadioButton_namespaceObject = {};
         __webpack_require__.r(MBRadioButton_namespaceObject);
         __webpack_require__.d(MBRadioButton_namespaceObject, {
@@ -18530,6 +18537,23 @@ PERFORMANCE OF THIS SOFTWARE.
                 elem._menu.open = false;
             }
         }
+        function MBMenuSurface_init(elem, dotNetObject) {
+            elem._menu = MDCMenuSurface.attachTo(elem);
+            var closedCallback = function closedCallback() {
+                dotNetObject.invokeMethodAsync("NotifyClosed");
+            };
+            elem._menu.listen("MDCMenuSurface:closed", closedCallback);
+        }
+        function MBMenuSurface_show(elem) {
+            if (elem._menu) {
+                elem._menu.open();
+            }
+        }
+        function MBMenuSurface_hide(elem) {
+            if (elem._menu) {
+                elem._menu.close();
+            }
+        }
         /**
  * @license
  * Copyright 2016 Google Inc.
@@ -24422,6 +24446,7 @@ PERFORMANCE OF THIS SOFTWARE.
             MBLinearProgress: MBLinearProgress_namespaceObject,
             MBList: MBList_namespaceObject,
             MBMenu: MBMenu_namespaceObject,
+            MBMenuSurface: MBMenuSurface_namespaceObject,
             MBRadioButton: MBRadioButton_namespaceObject,
             MBSegmentedButtonMulti: MBSegmentedButtonMulti_namespaceObject,
             MBSelect: MBSelect_namespaceObject,

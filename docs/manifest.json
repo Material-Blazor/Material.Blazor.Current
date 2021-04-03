@@ -442,6 +442,18 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "Material.Blazor/Components/MenuSurface/MBMenuSurface.md",
+      "output": {
+        ".html": {
+          "relative_path": "Material.Blazor/Components/MenuSurface/MBMenuSurface.html",
+          "hash": "McA1Y1Lk3ch9XXz+brc1Kg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "Material.Blazor/Components/NumericDecimalField/MBNumericDecimalField.md",
       "output": {
         ".html": {
@@ -926,7 +938,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Material.Blazor.Internal.ComponentFoundation.html",
-          "hash": "85ItSZT9f6JHO5msepmKwQ=="
+          "hash": "FaJ/k1SelN9PtDU/DBiDcQ=="
         }
       },
       "is_incremental": false,
@@ -1750,6 +1762,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Material.Blazor.MBMenuSurface.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Material.Blazor.MBMenuSurface.html",
+          "hash": "w1Wj6+7UVyYBcBUSyoF7XA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Material.Blazor.MBMenuSurfacePositioning.yml",
       "output": {
         ".html": {
@@ -2246,7 +2270,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Material.Blazor.html",
-          "hash": "J1YXZwbTB6d3qmJNCMQy4w=="
+          "hash": "cZ0s9xy9ivIVww6nR965PA=="
         }
       },
       "is_incremental": false,
@@ -2258,7 +2282,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "IHlMd83I4DZWyJfym4sWIg=="
+          "hash": "3+NfyHls37EKmS9SRqwYQA=="
         }
       },
       "is_incremental": false,
@@ -2724,13 +2748,13 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 80,
+          "total_file_count": 81,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 122,
+          "total_file_count": 123,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {

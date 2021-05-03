@@ -189,7 +189,7 @@
       "url": "_content\/Material.Blazor\/MaterialBlazor.css"
     },
     {
-      "hash": "sha256-\/KST49qpxEIQEjdDEEaw388\/oTZDbQbgWMY4\/u7cbfI=",
+      "hash": "sha256-\/kAoFXDHMgDS+Xql938C4Cgt75s2d58ffsZf5wyOx+w=",
       "url": "_content\/Material.Blazor\/MaterialBlazor.js"
     },
     {
@@ -197,7 +197,7 @@
       "url": "_content\/Material.Blazor\/MaterialBlazor.min.css"
     },
     {
-      "hash": "sha256-hUFS9vFkYYqyX33Nds4bHbqrH5oogsSyDl3pbtslXcE=",
+      "hash": "sha256-3ZHUcvoYfDkFIRIMyr76zxVMVA2NI532+5O9ygVH0ZI=",
       "url": "_content\/Material.Blazor\/MaterialBlazor.min.js"
     },
     {
@@ -241,7 +241,7 @@
       "url": "_framework\/Microsoft.Extensions.Logging.dll"
     },
     {
-      "hash": "sha256-Evl9TDWCkrqkrvxWs5wjYcwRqMOl+mjRN4jaxdyx61M=",
+      "hash": "sha256-Ikn\/wOeof9rfxTbKFa+ozsF1jRblv+Qb2YYCscarqgc=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
@@ -269,15 +269,15 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-v7UQpLV4ttm2AO4I741ugF6CZXicfxHjAfwFOTnpFQY=",
+      "hash": "sha256-o1lQ6ljFUO+TMgCZO+L8aBzSKFQ0e3ZllWCtX4hg4WM=",
       "url": "_framework\/Material.Blazor.dll"
     },
     {
-      "hash": "sha256-saClPWi8NscmdeEatrilFMwOKLx98PRee\/sHZgsJmww=",
+      "hash": "sha256-vIoAge6VW\/Fpb7WspV86SRSa+Y329xglrYtSdDwlaro=",
       "url": "_framework\/Material.Blazor.Website.dll"
     },
     {
-      "hash": "sha256-+pRb2JHVKhhypb0XaMtKHFOUpZwdpyLjQ9wkyuX5iBo=",
+      "hash": "sha256-ejc9RQVqWjyWkiJBjZKowAnSAn+PW\/m4UHOK06Rb9tA=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.dll"
     },
     {
@@ -381,7 +381,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-BKUgPtBvpZfyjbYt8sPFLQzEhv5Sxh6g0oOvasapVPk=",
+      "hash": "sha256-OYdJ9y8U\/dxSLzrQMsCDRMpHuqUQuwIccjLe3RVMO68=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -389,5 +389,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "RNw4ysPi"
+  "version": "aZ3TS45X"
 };

@@ -773,6 +773,7 @@
         __webpack_require__.r(MBLinearProgress_namespaceObject);
         __webpack_require__.d(MBLinearProgress_namespaceObject, {
             init: () => MBLinearProgress_init,
+            restartAnimation: () => restartAnimation,
             setProgress: () => MBLinearProgress_setProgress
         });
         var MBList_namespaceObject = {};
@@ -13148,6 +13149,9 @@ PERFORMANCE OF THIS SOFTWARE.
         function MBLinearProgress_setProgress(elem, progress, buffer) {
             elem._linearProgress.progress = progress;
             elem._linearProgress.buffer = buffer;
+        }
+        function restartAnimation(elem) {
+            elem._linearProgress.foundation.restartAnimation();
         }
         function MBList_init(elem, keyboardInteractions, ripple) {
             if (keyboardInteractions == true) {

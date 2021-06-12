@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-ZeNg2sdJBZ\/KV\/x4Ml8PbIMTXsgBCSAir3TGTFJZSjQ=",
+      "hash": "sha256-68frMdIK\/LVbiGUk7NNDbVGlpAQhGccdhLN+vDyP46w=",
       "url": "_framework\/package-lock.json"
     },
     {
@@ -269,15 +269,15 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-WUmUK1eySd6hauiHNO7FwY0JVtqt\/9vPw0e4+eFHYj0=",
+      "hash": "sha256-LX7P+czTfGv618uihmuzr95X\/T9Q\/\/Ms4HJjKrYHv+o=",
       "url": "_framework\/Material.Blazor.dll"
     },
     {
-      "hash": "sha256-SrIZS2QhaO1aockfO\/pW8Ip\/DWaoal4YaYOJ2x0J\/dY=",
+      "hash": "sha256-g3kDEatENwLBk4t+kj\/dVmWL3CmDEUmnwrXJtjLgHdg=",
       "url": "_framework\/Material.Blazor.Website.dll"
     },
     {
-      "hash": "sha256-od5gyiTl++3lhDf8DpRgecmy+7taSgP\/\/N9cFeZMsUY=",
+      "hash": "sha256-lZ41fA0AhUF1Y3FIjKjI5NsggiTrdMs2JefExKcibpY=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.dll"
     },
     {
@@ -381,7 +381,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-P6ixALAgExvC3rQK84XMYlgWEtdp\/5oKsRlCy8z0yFY=",
+      "hash": "sha256-coXwzzuRkPFRms8zTJ1gA+KGHO8BkDyHVjRR+5RS8WM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -389,5 +389,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "sDq70jVQ"
+  "version": "5p10sH8p"
 };

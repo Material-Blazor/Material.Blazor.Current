@@ -12871,7 +12871,6 @@ PERFORMANCE OF THIS SOFTWARE.
             return width;
         }
         function getTextWidths(className, currentWidths, textToMeasure) {
-            console.log("Entry " + (new Date).toString());
             var ele = document.createElement("div");
             ele.style.position = "absolute";
             ele.style.visibility = "hidden";
@@ -12879,7 +12878,6 @@ PERFORMANCE OF THIS SOFTWARE.
             ele.style.left = "-9999px";
             ele.className = className;
             document.body.appendChild(ele);
-            console.log("Above for " + (new Date).toString());
             for (var i = 0; i < textToMeasure.length; i++) {
                 ele.innerText = textToMeasure[i];
                 var width = window.getComputedStyle(ele).width;
@@ -12891,7 +12889,6 @@ PERFORMANCE OF THIS SOFTWARE.
                 }
             }
             document.body.removeChild(ele);
-            console.log("Above return " + (new Date).toString());
             return currentWidths;
         }
         function MBIconButton_init(elem) {

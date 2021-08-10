@@ -104,6 +104,12 @@ your user navigates from one page to another.</p>
       <section><p>An autocomplete built using an <a class="xref" href="Material.Blazor.MBTextField.html">MBTextField</a> with the anchor and drop
 down list implementation from a Material Theme select.</p>
 </section>
+      <h4><a class="xref" href="Material.Blazor.MBBatchingWrapper.html">MBBatchingWrapper</a></h4>
+      <section><p>This is a utility component that controls when batched JS interop calls are executed.
+Normally, batched JS interop calls are executed using a timer in regular intervals.
+In some cases, it can be an advantage to flush the batch earlier, which can be controlled with this component.</p>
+<p>Whenever this component re-renders, the batch is flushed, hence all JS interop calls which were queued up in any child component will be executed at this point.</p>
+</section>
       <h4><a class="xref" href="Material.Blazor.MBBladeComponent-1.html">MBBladeComponent&lt;TParam&gt;</a></h4>
       <section><p>A component added to a blade via <a class="xref" href="Material.Blazor.MBBladeSet.html#Material_Blazor_MBBladeSet_AddBladeAsync__2_System_String___1_System_String_System_String_System_Action_System_String__">AddBladeAsync&lt;TComponent, TParameters&gt;(String, TParameters, String, String, Action&lt;String&gt;)</a>
 must implement this interface.</p>

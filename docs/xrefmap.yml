@@ -862,6 +862,32 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.Internal.ComponentFoundation.ActiveConditionalClasses
   nameWithType: ComponentFoundation.ActiveConditionalClasses
+- uid: Material.Blazor.Internal.ComponentFoundation.BatchingJsRuntime
+  name: BatchingJsRuntime
+  href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_BatchingJsRuntime
+  commentId: P:Material.Blazor.Internal.ComponentFoundation.BatchingJsRuntime
+  fullName: Material.Blazor.Internal.ComponentFoundation.BatchingJsRuntime
+  nameWithType: ComponentFoundation.BatchingJsRuntime
+- uid: Material.Blazor.Internal.ComponentFoundation.BatchingJsRuntime*
+  name: BatchingJsRuntime
+  href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_BatchingJsRuntime_
+  commentId: Overload:Material.Blazor.Internal.ComponentFoundation.BatchingJsRuntime
+  isSpec: "True"
+  fullName: Material.Blazor.Internal.ComponentFoundation.BatchingJsRuntime
+  nameWithType: ComponentFoundation.BatchingJsRuntime
+- uid: Material.Blazor.Internal.ComponentFoundation.BatchingWrapper
+  name: BatchingWrapper
+  href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_BatchingWrapper
+  commentId: P:Material.Blazor.Internal.ComponentFoundation.BatchingWrapper
+  fullName: Material.Blazor.Internal.ComponentFoundation.BatchingWrapper
+  nameWithType: ComponentFoundation.BatchingWrapper
+- uid: Material.Blazor.Internal.ComponentFoundation.BatchingWrapper*
+  name: BatchingWrapper
+  href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_BatchingWrapper_
+  commentId: Overload:Material.Blazor.Internal.ComponentFoundation.BatchingWrapper
+  isSpec: "True"
+  fullName: Material.Blazor.Internal.ComponentFoundation.BatchingWrapper
+  nameWithType: ComponentFoundation.BatchingWrapper
 - uid: Material.Blazor.Internal.ComponentFoundation.CascadingDefaults
   name: CascadingDefaults
   href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_CascadingDefaults
@@ -933,19 +959,6 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.Internal.ComponentFoundation.id
   nameWithType: ComponentFoundation.id
-- uid: Material.Blazor.Internal.ComponentFoundation.JsRuntime
-  name: JsRuntime
-  href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_JsRuntime
-  commentId: P:Material.Blazor.Internal.ComponentFoundation.JsRuntime
-  fullName: Material.Blazor.Internal.ComponentFoundation.JsRuntime
-  nameWithType: ComponentFoundation.JsRuntime
-- uid: Material.Blazor.Internal.ComponentFoundation.JsRuntime*
-  name: JsRuntime
-  href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_JsRuntime_
-  commentId: Overload:Material.Blazor.Internal.ComponentFoundation.JsRuntime
-  isSpec: "True"
-  fullName: Material.Blazor.Internal.ComponentFoundation.JsRuntime
-  nameWithType: ComponentFoundation.JsRuntime
 - uid: Material.Blazor.Internal.ComponentFoundation.OnAfterRender(System.Boolean)
   name: OnAfterRender(Boolean)
   href: api/Material.Blazor.Internal.ComponentFoundation.html#Material_Blazor_Internal_ComponentFoundation_OnAfterRender_System_Boolean_
@@ -1091,6 +1104,19 @@ references:
   commentId: T:Material.Blazor.Internal.IBatchingJSRuntime
   fullName: Material.Blazor.Internal.IBatchingJSRuntime
   nameWithType: IBatchingJSRuntime
+- uid: Material.Blazor.Internal.IBatchingJSRuntime.FlushBatchAsync
+  name: FlushBatchAsync()
+  href: api/Material.Blazor.Internal.IBatchingJSRuntime.html#Material_Blazor_Internal_IBatchingJSRuntime_FlushBatchAsync
+  commentId: M:Material.Blazor.Internal.IBatchingJSRuntime.FlushBatchAsync
+  fullName: Material.Blazor.Internal.IBatchingJSRuntime.FlushBatchAsync()
+  nameWithType: IBatchingJSRuntime.FlushBatchAsync()
+- uid: Material.Blazor.Internal.IBatchingJSRuntime.FlushBatchAsync*
+  name: FlushBatchAsync
+  href: api/Material.Blazor.Internal.IBatchingJSRuntime.html#Material_Blazor_Internal_IBatchingJSRuntime_FlushBatchAsync_
+  commentId: Overload:Material.Blazor.Internal.IBatchingJSRuntime.FlushBatchAsync
+  isSpec: "True"
+  fullName: Material.Blazor.Internal.IBatchingJSRuntime.FlushBatchAsync
+  nameWithType: IBatchingJSRuntime.FlushBatchAsync
 - uid: Material.Blazor.Internal.IBatchingJSRuntime.InvokeAsync*
   name: InvokeAsync
   href: api/Material.Blazor.Internal.IBatchingJSRuntime.html#Material_Blazor_Internal_IBatchingJSRuntime_InvokeAsync_
@@ -1107,15 +1133,15 @@ references:
   fullName.vb: Material.Blazor.Internal.IBatchingJSRuntime.InvokeAsync(Of T)(System.String, System.Object())
   nameWithType: IBatchingJSRuntime.InvokeAsync<T>(String, Object[])
   nameWithType.vb: IBatchingJSRuntime.InvokeAsync(Of T)(String, Object())
-- uid: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(System.String,System.Object[])
-  name: InvokeVoidAsync(String, Object[])
-  href: api/Material.Blazor.Internal.IBatchingJSRuntime.html#Material_Blazor_Internal_IBatchingJSRuntime_InvokeVoidAsync_System_String_System_Object___
-  commentId: M:Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(System.String,System.Object[])
-  name.vb: InvokeVoidAsync(String, Object())
-  fullName: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(System.String, System.Object[])
-  fullName.vb: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(System.String, System.Object())
-  nameWithType: IBatchingJSRuntime.InvokeVoidAsync(String, Object[])
-  nameWithType.vb: IBatchingJSRuntime.InvokeVoidAsync(String, Object())
+- uid: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(Material.Blazor.MBBatchingWrapper,System.String,System.Object[])
+  name: InvokeVoidAsync(MBBatchingWrapper, String, Object[])
+  href: api/Material.Blazor.Internal.IBatchingJSRuntime.html#Material_Blazor_Internal_IBatchingJSRuntime_InvokeVoidAsync_Material_Blazor_MBBatchingWrapper_System_String_System_Object___
+  commentId: M:Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(Material.Blazor.MBBatchingWrapper,System.String,System.Object[])
+  name.vb: InvokeVoidAsync(MBBatchingWrapper, String, Object())
+  fullName: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(Material.Blazor.MBBatchingWrapper, System.String, System.Object[])
+  fullName.vb: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync(Material.Blazor.MBBatchingWrapper, System.String, System.Object())
+  nameWithType: IBatchingJSRuntime.InvokeVoidAsync(MBBatchingWrapper, String, Object[])
+  nameWithType.vb: IBatchingJSRuntime.InvokeVoidAsync(MBBatchingWrapper, String, Object())
 - uid: Material.Blazor.Internal.IBatchingJSRuntime.InvokeVoidAsync*
   name: InvokeVoidAsync
   href: api/Material.Blazor.Internal.IBatchingJSRuntime.html#Material_Blazor_Internal_IBatchingJSRuntime_InvokeVoidAsync_
@@ -2448,6 +2474,77 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.MBAutocompleteTextField.ValidationMessageFor
   nameWithType: MBAutocompleteTextField.ValidationMessageFor
+- uid: Material.Blazor.MBBatchingWrapper
+  name: MBBatchingWrapper
+  href: api/Material.Blazor.MBBatchingWrapper.html
+  commentId: T:Material.Blazor.MBBatchingWrapper
+  fullName: Material.Blazor.MBBatchingWrapper
+  nameWithType: MBBatchingWrapper
+- uid: Material.Blazor.MBBatchingWrapper.BatchingJsRuntime
+  name: BatchingJsRuntime
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_BatchingJsRuntime
+  commentId: P:Material.Blazor.MBBatchingWrapper.BatchingJsRuntime
+  fullName: Material.Blazor.MBBatchingWrapper.BatchingJsRuntime
+  nameWithType: MBBatchingWrapper.BatchingJsRuntime
+- uid: Material.Blazor.MBBatchingWrapper.BatchingJsRuntime*
+  name: BatchingJsRuntime
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_BatchingJsRuntime_
+  commentId: Overload:Material.Blazor.MBBatchingWrapper.BatchingJsRuntime
+  isSpec: "True"
+  fullName: Material.Blazor.MBBatchingWrapper.BatchingJsRuntime
+  nameWithType: MBBatchingWrapper.BatchingJsRuntime
+- uid: Material.Blazor.MBBatchingWrapper.BuildRenderTree(RenderTreeBuilder)
+  name: BuildRenderTree(RenderTreeBuilder)
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_BuildRenderTree_RenderTreeBuilder_
+  commentId: M:Material.Blazor.MBBatchingWrapper.BuildRenderTree(RenderTreeBuilder)
+  fullName: Material.Blazor.MBBatchingWrapper.BuildRenderTree(RenderTreeBuilder)
+  nameWithType: MBBatchingWrapper.BuildRenderTree(RenderTreeBuilder)
+- uid: Material.Blazor.MBBatchingWrapper.BuildRenderTree*
+  name: BuildRenderTree
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_BuildRenderTree_
+  commentId: Overload:Material.Blazor.MBBatchingWrapper.BuildRenderTree
+  isSpec: "True"
+  fullName: Material.Blazor.MBBatchingWrapper.BuildRenderTree
+  nameWithType: MBBatchingWrapper.BuildRenderTree
+- uid: Material.Blazor.MBBatchingWrapper.ChildContent
+  name: ChildContent
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_ChildContent
+  commentId: P:Material.Blazor.MBBatchingWrapper.ChildContent
+  fullName: Material.Blazor.MBBatchingWrapper.ChildContent
+  nameWithType: MBBatchingWrapper.ChildContent
+- uid: Material.Blazor.MBBatchingWrapper.ChildContent*
+  name: ChildContent
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_ChildContent_
+  commentId: Overload:Material.Blazor.MBBatchingWrapper.ChildContent
+  isSpec: "True"
+  fullName: Material.Blazor.MBBatchingWrapper.ChildContent
+  nameWithType: MBBatchingWrapper.ChildContent
+- uid: Material.Blazor.MBBatchingWrapper.OnAfterRenderAsync(System.Boolean)
+  name: OnAfterRenderAsync(Boolean)
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_OnAfterRenderAsync_System_Boolean_
+  commentId: M:Material.Blazor.MBBatchingWrapper.OnAfterRenderAsync(System.Boolean)
+  fullName: Material.Blazor.MBBatchingWrapper.OnAfterRenderAsync(System.Boolean)
+  nameWithType: MBBatchingWrapper.OnAfterRenderAsync(Boolean)
+- uid: Material.Blazor.MBBatchingWrapper.OnAfterRenderAsync*
+  name: OnAfterRenderAsync
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_OnAfterRenderAsync_
+  commentId: Overload:Material.Blazor.MBBatchingWrapper.OnAfterRenderAsync
+  isSpec: "True"
+  fullName: Material.Blazor.MBBatchingWrapper.OnAfterRenderAsync
+  nameWithType: MBBatchingWrapper.OnAfterRenderAsync
+- uid: Material.Blazor.MBBatchingWrapper.OnInitialized
+  name: OnInitialized()
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_OnInitialized
+  commentId: M:Material.Blazor.MBBatchingWrapper.OnInitialized
+  fullName: Material.Blazor.MBBatchingWrapper.OnInitialized()
+  nameWithType: MBBatchingWrapper.OnInitialized()
+- uid: Material.Blazor.MBBatchingWrapper.OnInitialized*
+  name: OnInitialized
+  href: api/Material.Blazor.MBBatchingWrapper.html#Material_Blazor_MBBatchingWrapper_OnInitialized_
+  commentId: Overload:Material.Blazor.MBBatchingWrapper.OnInitialized
+  isSpec: "True"
+  fullName: Material.Blazor.MBBatchingWrapper.OnInitialized
+  nameWithType: MBBatchingWrapper.OnInitialized
 - uid: Material.Blazor.MBBladeComponent`1
   name: MBBladeComponent<TParam>
   href: api/Material.Blazor.MBBladeComponent-1.html

@@ -7,9 +7,9 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Material.Blazor.dll": "sha256-Pvz8TWyeJlPNL16jljsBPGR7+uSLEGvNw7qvMpInYsE=",
-      "Material.Blazor.Website.dll": "sha256-xpbJva0fk\/F9KEjqBtF5u+JCVdRsNhXke7gQnLW6QKI=",
-      "Material.Blazor.Website.WebAssembly.dll": "sha256-\/AXFvUvGPbxmujVlAdfL28d\/SAs9aEr+eanEOtRhVEg=",
+      "Material.Blazor.dll": "sha256-gVUtovrxOHqrnR+gaoc2gSMLkAs29TNEX2kreZKiffU=",
+      "Material.Blazor.Website.dll": "sha256-j7+48c5+IcTEKBcKJyN2sjhYhAIVN3gB7KUcvAB7PM4=",
+      "Material.Blazor.Website.WebAssembly.dll": "sha256-0fZokKrvfY\/jl61wKEJ60WlvXPsRGr2sZg3pdMwwjHk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-cWKXPmkjnBjbuFE1lRh1F6piZ0e\/VuyIgyU9HYqsu7c=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-+Te6XnDAHqEYcZxUrvOPllVjnsWwG3CtWNgCnzVKABE=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-E7cY8cy5MBV\/qxBtDZZkILm+rxtplkHxfSH6HGawji4=",

@@ -29,7 +29,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-5CkQzV1Vg2gRKuQgBLdqRtYRKWc5CfCuaalokNCmHWs=",
+      "hash": "sha256-AV+8W7OjwJFb\/jr7opsEzOtABaaRj2U6x9pnQPd\/zHE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,15 +37,15 @@
       "url": "_framework\/dotnet.6.0.0-preview.7.21377.19.js"
     },
     {
-      "hash": "sha256-cBMGFR4nNjiGDOln647Dpi9h0NIjDHvXy\/I6cEFTVNs=",
+      "hash": "sha256-Pvz8TWyeJlPNL16jljsBPGR7+uSLEGvNw7qvMpInYsE=",
       "url": "_framework\/Material.Blazor.dll"
     },
     {
-      "hash": "sha256-myiLuDB2E8JxO84LEpukf\/ARL4KaHNFqU96+1Bk5mwo=",
+      "hash": "sha256-xpbJva0fk\/F9KEjqBtF5u+JCVdRsNhXke7gQnLW6QKI=",
       "url": "_framework\/Material.Blazor.Website.dll"
     },
     {
-      "hash": "sha256-UiUWFGjkEWlGcExZ91rq70veA2RV0GxkwmSxpApqzgs=",
+      "hash": "sha256-\/AXFvUvGPbxmujVlAdfL28d\/SAs9aEr+eanEOtRhVEg=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.dll"
     },
     {
@@ -349,5 +349,5 @@
       "url": "_content\/Material.Blazor.Website\/videos\/coverr-someone-is-checking-emails-there_s-an-old-globe-on-the-table-0186.mp4"
     }
   ],
-  "version": "eoD7Fvrc"
+  "version": "rzLNEFra"
 };

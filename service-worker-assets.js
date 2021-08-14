@@ -29,7 +29,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-0Ydt1blkMmm9zpfMu4prbiomy+Ycxj+5vaarlyjq4\/Q=",
+      "hash": "sha256-8DpAbx2ZUyHmuBM9AY7Kr9+RJ2gnyoUDfWEdrj24MTk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,15 +37,15 @@
       "url": "_framework\/dotnet.6.0.0-preview.7.21377.19.js"
     },
     {
-      "hash": "sha256-kLm7JQ1Nrzy4zUDoIIdUX60Ok2rj2gxclBij6Dbifpw=",
+      "hash": "sha256-b81o8ctPCSeAu4k+lrmKbY0MwLIwT2qncGKBbVfE9Uk=",
       "url": "_framework\/Material.Blazor.dll"
     },
     {
-      "hash": "sha256-tfDwe0DjcSHzpfTf4YaZIcInijDQgtVlV87LanX8Huk=",
+      "hash": "sha256-eOv0Ei1DOhJ\/19t452BNZEl6ckuHxmvd1g3tjDzwrsE=",
       "url": "_framework\/Material.Blazor.Website.dll"
     },
     {
-      "hash": "sha256-X3riKWKzvRyxO1g\/eYxrKdR9GZMpHwmcwgp7Ug2jnZ0=",
+      "hash": "sha256-MLzVDpwaoPOiRww0pxxrPnFkkpvBLAfHoTp7js\/5SxA=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.dll"
     },
     {
@@ -233,7 +233,7 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-QrndI32rr7hsKOT\/ohanNdYPqo3wsGYMkT2UHLUo4nw=",
+      "hash": "sha256-H2+zOwWYRxSjRpsfD04HU50WenKRYIbbf28DUQK4H50=",
       "url": "index.html"
     },
     {
@@ -369,29 +369,29 @@
       "url": "_content\/Material.Blazor.Website\/videos\/coverr-someone-is-checking-emails-there_s-an-old-globe-on-the-table-0186.mp4"
     },
     {
-      "hash": "sha256-bfhr8PvGuyOLpPA1qP6WnCRx6ImzAS0qAU4c0a+4SDk=",
-      "url": "_content\/Material.Blazor\/material.css"
-    },
-    {
-      "hash": "sha256-eDTgBGJP8gJMinSXBymZ8ZJHM81FzLt2Us4c+lcfoYo=",
-      "url": "_content\/Material.Blazor\/material.min.css"
-    },
-    {
       "hash": "sha256-5iCzjwvo5+i2UZZYOPTdQLvzp4rV7+GtSIq7cn1J0i0=",
-      "url": "_content\/Material.Blazor\/materialblazor.css"
+      "url": "_content\/Material.Blazor\/material.blazor.css"
     },
     {
-      "hash": "sha256-Sj23JdQZxmO5fSm5v1BUS9INDKtLHji0\/DrRVuoyf8E=",
-      "url": "_content\/Material.Blazor\/materialblazor.js"
+      "hash": "sha256-5PWmd6sGRvnDU647XmjM5jk3FF3uTDdCRqdVOHho8Ys=",
+      "url": "_content\/Material.Blazor\/material.blazor.js"
     },
     {
       "hash": "sha256-0qgJlzQHwRpJRCJmLtdVaP7dqW\/ETtLuSeZl0cxSO9s=",
-      "url": "_content\/Material.Blazor\/materialblazor.min.css"
+      "url": "_content\/Material.Blazor\/material.blazor.min.css"
     },
     {
-      "hash": "sha256-xcfvjK6AZVLD\/3ZtM3thsc9h\/i47J2fb\/2kZP5vz+10=",
-      "url": "_content\/Material.Blazor\/materialblazor.min.js"
+      "hash": "sha256-UfR4ijloUaAmuuQitB\/pCK\/HbojTb9PSvqc7HXDwye8=",
+      "url": "_content\/Material.Blazor\/material.blazor.min.js"
+    },
+    {
+      "hash": "sha256-bfhr8PvGuyOLpPA1qP6WnCRx6ImzAS0qAU4c0a+4SDk=",
+      "url": "_content\/Material.Blazor\/material-components-web.css"
+    },
+    {
+      "hash": "sha256-eDTgBGJP8gJMinSXBymZ8ZJHM81FzLt2Us4c+lcfoYo=",
+      "url": "_content\/Material.Blazor\/material-components-web.min.css"
     }
   ],
-  "version": "fllrdwQJ"
+  "version": "6t8kcn+f"
 };

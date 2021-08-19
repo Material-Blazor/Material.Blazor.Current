@@ -1569,6 +1569,19 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.Internal.InternalDatePickerPanel.MinDate
   nameWithType: InternalDatePickerPanel.MinDate
+- uid: Material.Blazor.Internal.InternalDatePickerPanel.NotifyOpened
+  name: NotifyOpened()
+  href: api/Material.Blazor.Internal.InternalDatePickerPanel.html#Material_Blazor_Internal_InternalDatePickerPanel_NotifyOpened
+  commentId: M:Material.Blazor.Internal.InternalDatePickerPanel.NotifyOpened
+  fullName: Material.Blazor.Internal.InternalDatePickerPanel.NotifyOpened()
+  nameWithType: InternalDatePickerPanel.NotifyOpened()
+- uid: Material.Blazor.Internal.InternalDatePickerPanel.NotifyOpened*
+  name: NotifyOpened
+  href: api/Material.Blazor.Internal.InternalDatePickerPanel.html#Material_Blazor_Internal_InternalDatePickerPanel_NotifyOpened_
+  commentId: Overload:Material.Blazor.Internal.InternalDatePickerPanel.NotifyOpened
+  isSpec: "True"
+  fullName: Material.Blazor.Internal.InternalDatePickerPanel.NotifyOpened
+  nameWithType: InternalDatePickerPanel.NotifyOpened
 - uid: Material.Blazor.Internal.InternalDatePickerPanel.OnAfterRenderAsync(System.Boolean)
   name: OnAfterRenderAsync(Boolean)
   href: api/Material.Blazor.Internal.InternalDatePickerPanel.html#Material_Blazor_Internal_InternalDatePickerPanel_OnAfterRenderAsync_System_Boolean_
@@ -1608,6 +1621,19 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.Internal.InternalDatePickerPanel.OnParametersSetAsync
   nameWithType: InternalDatePickerPanel.OnParametersSetAsync
+- uid: Material.Blazor.Internal.InternalDatePickerPanel.Parent
+  name: Parent
+  href: api/Material.Blazor.Internal.InternalDatePickerPanel.html#Material_Blazor_Internal_InternalDatePickerPanel_Parent
+  commentId: P:Material.Blazor.Internal.InternalDatePickerPanel.Parent
+  fullName: Material.Blazor.Internal.InternalDatePickerPanel.Parent
+  nameWithType: InternalDatePickerPanel.Parent
+- uid: Material.Blazor.Internal.InternalDatePickerPanel.Parent*
+  name: Parent
+  href: api/Material.Blazor.Internal.InternalDatePickerPanel.html#Material_Blazor_Internal_InternalDatePickerPanel_Parent_
+  commentId: Overload:Material.Blazor.Internal.InternalDatePickerPanel.Parent
+  isSpec: "True"
+  fullName: Material.Blazor.Internal.InternalDatePickerPanel.Parent
+  nameWithType: InternalDatePickerPanel.Parent
 - uid: Material.Blazor.Internal.InternalDatePickerPanel.SupressDefaultDate
   name: SupressDefaultDate
   href: api/Material.Blazor.Internal.InternalDatePickerPanel.html#Material_Blazor_Internal_InternalDatePickerPanel_SupressDefaultDate
@@ -2658,13 +2684,13 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.MBBladeSet.AddBladeAsync
   nameWithType: MBBladeSet.AddBladeAsync
-- uid: Material.Blazor.MBBladeSet.AddBladeAsync``2(System.String,``1,System.String,System.String,System.Action{System.String})
+- uid: Material.Blazor.MBBladeSet.AddBladeAsync``2(System.String,``1,System.String,System.String,Action{System.String})
   name: AddBladeAsync<TComponent, TParameters>(String, TParameters, String, String, Action<String>)
-  href: api/Material.Blazor.MBBladeSet.html#Material_Blazor_MBBladeSet_AddBladeAsync__2_System_String___1_System_String_System_String_System_Action_System_String__
-  commentId: M:Material.Blazor.MBBladeSet.AddBladeAsync``2(System.String,``1,System.String,System.String,System.Action{System.String})
+  href: api/Material.Blazor.MBBladeSet.html#Material_Blazor_MBBladeSet_AddBladeAsync__2_System_String___1_System_String_System_String_Action_System_String__
+  commentId: M:Material.Blazor.MBBladeSet.AddBladeAsync``2(System.String,``1,System.String,System.String,Action{System.String})
   name.vb: AddBladeAsync(Of TComponent, TParameters)(String, TParameters, String, String, Action(Of String))
-  fullName: Material.Blazor.MBBladeSet.AddBladeAsync<TComponent, TParameters>(System.String, TParameters, System.String, System.String, System.Action<System.String>)
-  fullName.vb: Material.Blazor.MBBladeSet.AddBladeAsync(Of TComponent, TParameters)(System.String, TParameters, System.String, System.String, System.Action(Of System.String))
+  fullName: Material.Blazor.MBBladeSet.AddBladeAsync<TComponent, TParameters>(System.String, TParameters, System.String, System.String, Action<System.String>)
+  fullName.vb: Material.Blazor.MBBladeSet.AddBladeAsync(Of TComponent, TParameters)(System.String, TParameters, System.String, System.String, Action(Of System.String))
   nameWithType: MBBladeSet.AddBladeAsync<TComponent, TParameters>(String, TParameters, String, String, Action<String>)
   nameWithType.vb: MBBladeSet.AddBladeAsync(Of TComponent, TParameters)(String, TParameters, String, String, Action(Of String))
 - uid: Material.Blazor.MBBladeSet.BladeReferences
@@ -3246,6 +3272,32 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.MBCascadingDefaults.DateFormat
   nameWithType: MBCascadingDefaults.DateFormat
+- uid: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMaxDate
+  name: DatePickerDefaultMaxDate
+  href: api/Material.Blazor.MBCascadingDefaults.html#Material_Blazor_MBCascadingDefaults_DatePickerDefaultMaxDate
+  commentId: P:Material.Blazor.MBCascadingDefaults.DatePickerDefaultMaxDate
+  fullName: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMaxDate
+  nameWithType: MBCascadingDefaults.DatePickerDefaultMaxDate
+- uid: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMaxDate*
+  name: DatePickerDefaultMaxDate
+  href: api/Material.Blazor.MBCascadingDefaults.html#Material_Blazor_MBCascadingDefaults_DatePickerDefaultMaxDate_
+  commentId: Overload:Material.Blazor.MBCascadingDefaults.DatePickerDefaultMaxDate
+  isSpec: "True"
+  fullName: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMaxDate
+  nameWithType: MBCascadingDefaults.DatePickerDefaultMaxDate
+- uid: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMinDate
+  name: DatePickerDefaultMinDate
+  href: api/Material.Blazor.MBCascadingDefaults.html#Material_Blazor_MBCascadingDefaults_DatePickerDefaultMinDate
+  commentId: P:Material.Blazor.MBCascadingDefaults.DatePickerDefaultMinDate
+  fullName: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMinDate
+  nameWithType: MBCascadingDefaults.DatePickerDefaultMinDate
+- uid: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMinDate*
+  name: DatePickerDefaultMinDate
+  href: api/Material.Blazor.MBCascadingDefaults.html#Material_Blazor_MBCascadingDefaults_DatePickerDefaultMinDate_
+  commentId: Overload:Material.Blazor.MBCascadingDefaults.DatePickerDefaultMinDate
+  isSpec: "True"
+  fullName: Material.Blazor.MBCascadingDefaults.DatePickerDefaultMinDate
+  nameWithType: MBCascadingDefaults.DatePickerDefaultMinDate
 - uid: Material.Blazor.MBCascadingDefaults.DateSelectionCriteria
   name: DateSelectionCriteria
   href: api/Material.Blazor.MBCascadingDefaults.html#Material_Blazor_MBCascadingDefaults_DateSelectionCriteria
@@ -4387,6 +4439,19 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.MBDatePicker.Density
   nameWithType: MBDatePicker.Density
+- uid: Material.Blazor.MBDatePicker.Dispose(System.Boolean)
+  name: Dispose(Boolean)
+  href: api/Material.Blazor.MBDatePicker.html#Material_Blazor_MBDatePicker_Dispose_System_Boolean_
+  commentId: M:Material.Blazor.MBDatePicker.Dispose(System.Boolean)
+  fullName: Material.Blazor.MBDatePicker.Dispose(System.Boolean)
+  nameWithType: MBDatePicker.Dispose(Boolean)
+- uid: Material.Blazor.MBDatePicker.Dispose*
+  name: Dispose
+  href: api/Material.Blazor.MBDatePicker.html#Material_Blazor_MBDatePicker_Dispose_
+  commentId: Overload:Material.Blazor.MBDatePicker.Dispose
+  isSpec: "True"
+  fullName: Material.Blazor.MBDatePicker.Dispose
+  nameWithType: MBDatePicker.Dispose
 - uid: Material.Blazor.MBDatePicker.Label
   name: Label
   href: api/Material.Blazor.MBDatePicker.html#Material_Blazor_MBDatePicker_Label
@@ -4439,6 +4504,19 @@ references:
   isSpec: "True"
   fullName: Material.Blazor.MBDatePicker.MinDate
   nameWithType: MBDatePicker.MinDate
+- uid: Material.Blazor.MBDatePicker.NotifyOpened
+  name: NotifyOpened()
+  href: api/Material.Blazor.MBDatePicker.html#Material_Blazor_MBDatePicker_NotifyOpened
+  commentId: M:Material.Blazor.MBDatePicker.NotifyOpened
+  fullName: Material.Blazor.MBDatePicker.NotifyOpened()
+  nameWithType: MBDatePicker.NotifyOpened()
+- uid: Material.Blazor.MBDatePicker.NotifyOpened*
+  name: NotifyOpened
+  href: api/Material.Blazor.MBDatePicker.html#Material_Blazor_MBDatePicker_NotifyOpened_
+  commentId: Overload:Material.Blazor.MBDatePicker.NotifyOpened
+  isSpec: "True"
+  fullName: Material.Blazor.MBDatePicker.NotifyOpened
+  nameWithType: MBDatePicker.NotifyOpened
 - uid: Material.Blazor.MBDatePicker.OnDisabledSetCallback
   name: OnDisabledSetCallback()
   href: api/Material.Blazor.MBDatePicker.html#Material_Blazor_MBDatePicker_OnDisabledSetCallback

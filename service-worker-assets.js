@@ -29,7 +29,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-0LVxjb+oLTto0f1KTeoT6OllsDsJeEO0ZP9fvVTxjNY=",
+      "hash": "sha256-tPhw5lJIFc6dwV26g54YH2WvUfMNq6\/mu00laTyo0Cg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,15 +37,15 @@
       "url": "_framework\/dotnet.6.0.0-preview.7.21377.19.js"
     },
     {
-      "hash": "sha256-HeUAOMMzWpQSt4OSAbRKcIM+vs7t\/Dqx0e0ZFKyADbc=",
+      "hash": "sha256-8beO12X5EhuDUS6sByNNZNM1MFUeo9J3BI0OUAXw5oQ=",
       "url": "_framework\/Material.Blazor.dll"
     },
     {
-      "hash": "sha256-duaJvZU2iJBnNHlJ5fFgwlTtupezIh5XtSaYGMPUfVo=",
+      "hash": "sha256-oZ7l0j3xRWJzEmFxJi75pziG3550j0qrRX5AFMbmmHE=",
       "url": "_framework\/Material.Blazor.Website.dll"
     },
     {
-      "hash": "sha256-yyYs3U5\/CsHNkjd9uKD\/ZWP8fobh7qn123FQJ6hfnK0=",
+      "hash": "sha256-yonkZ4E\/JXMhNaI00Wj4RTnAD4DWbIwwQytYw+RnjN8=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.dll"
     },
     {
@@ -369,19 +369,19 @@
       "url": "_content\/Material.Blazor.Website\/videos\/coverr-someone-is-checking-emails-there_s-an-old-globe-on-the-table-0186.mp4"
     },
     {
-      "hash": "sha256-5iCzjwvo5+i2UZZYOPTdQLvzp4rV7+GtSIq7cn1J0i0=",
+      "hash": "sha256-wiOmdUy2fAZsZihW2K9SdBebkaTMcw3l7PtCf\/5BmqA=",
       "url": "_content\/Material.Blazor\/material.blazor.css"
     },
     {
-      "hash": "sha256-5PWmd6sGRvnDU647XmjM5jk3FF3uTDdCRqdVOHho8Ys=",
+      "hash": "sha256-4DxVlFdQzC8mRJAQRMEhEa44qcivZu0tgtZpju7wRJo=",
       "url": "_content\/Material.Blazor\/material.blazor.js"
     },
     {
-      "hash": "sha256-0qgJlzQHwRpJRCJmLtdVaP7dqW\/ETtLuSeZl0cxSO9s=",
+      "hash": "sha256-CS3P9FM66+Nh3MCko+xZAdFgSm6kS0sg7H187mr6ZdI=",
       "url": "_content\/Material.Blazor\/material.blazor.min.css"
     },
     {
-      "hash": "sha256-UfR4ijloUaAmuuQitB\/pCK\/HbojTb9PSvqc7HXDwye8=",
+      "hash": "sha256-8RkDcTONhpeCfjeCATAXBXAhHZQZVJNEJ9kiKXfTif4=",
       "url": "_content\/Material.Blazor\/material.blazor.min.js"
     },
     {
@@ -393,5 +393,5 @@
       "url": "_content\/Material.Blazor\/material-components-web.min.css"
     }
   ],
-  "version": "mmxxIj9g"
+  "version": "9yKEFtxi"
 };

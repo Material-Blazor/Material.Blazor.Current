@@ -241,7 +241,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-eVOGV4ZulTjLVNHq7kb35kAhVwCKuFb9qtZRpUV8GOg=",
+      "hash": "sha256-ugNM95OAk72sbhhElCQepjK7e8hMyvPoEoXmoXFq+8g=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,15 +253,15 @@
       "url": "_framework\/Humanizer.wasm"
     },
     {
-      "hash": "sha256-h5E5VS56pSg7z2Br2CRl8CEj4eYUTK4q6u3GYrQyicA=",
+      "hash": "sha256-lmayQk1Vwb6qjasO7Wlq5yFTdyroIQUxBhrT\/roSjqM=",
       "url": "_framework\/Material.Blazor.wasm"
     },
     {
-      "hash": "sha256-dGc9+LzYy8FlN6bzbfrqwCSU\/G7LkodLiKayAaoJvg4=",
+      "hash": "sha256-s9rPhT9s5klmNctVmDSOhpjJ6y\/9vIumWVVszm3rvfw=",
       "url": "_framework\/Material.Blazor.Website.wasm"
     },
     {
-      "hash": "sha256-X39yNteeSUBNtBTEDtyfMJ+K5W+T2f3JdcT6YWvS7Mo=",
+      "hash": "sha256-0RTwkCpK7oUsSlwazGzqLWh6a1E0yEWrAOHUp2il1GE=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.wasm"
     },
     {
@@ -657,5 +657,5 @@
       "url": "_content\/Material.Blazor\/material.blazor.min.js"
     }
   ],
-  "version": "tZGlZIRO"
+  "version": "KmVtGvpD"
 };

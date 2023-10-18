@@ -29,11 +29,7 @@
       <meta name="loc:copy" content="Copy">
   </head>
 
-  <script type="module">
-    import options from './../../public/main.js'
-    import { init } from './../../public/docfx.min.js'
-    init(options)
-  </script>
+  <script type="module" src="./../../public/docfx.min.js"></script>
 
   <script>
     const theme = localStorage.getItem('theme') || 'auto'
@@ -114,6 +110,7 @@
 access. The reason is that there's a good use case for MBBladeSet to be used on individual pages, meaning that all blades and their data should disappear when the user navigates
 away. A service would be poorly suited to this requirement.</p>
 <p>Our demonstration web app applies blades in <code>MainLayout.razor</code>, however you can use this component wherever makes sense for your app.</p>
+
 </article>
 
         <div class="contribution d-print-none">
@@ -121,7 +118,7 @@ away. A service would be poorly suited to this requirement.</p>
         </div>
 
         <div class="next-article d-print-none border-top" id="nextArticle"></div>
-        
+
       </div>
 
       <div class="affix">

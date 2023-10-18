@@ -29,11 +29,7 @@
       <meta name="loc:copy" content="Copy">
   </head>
 
-  <script type="module">
-    import options from './../../public/main.js'
-    import { init } from './../../public/docfx.min.js'
-    init(options)
-  </script>
+  <script type="module" src="./../../public/docfx.min.js"></script>
 
   <script>
     const theme = localStorage.getItem('theme') || 'auto'
@@ -101,6 +97,7 @@ enum. We also provide a helper flag on <a class="xref" href="../Components/Dialo
 <h2 id="dialog-alternative">Dialog Alternative</h2>
 <p>We have added an <code>OverflowVisible</code> boolean flag to <a class="xref" href="../Components/Dialog/MBDialog.html">MBDialog</a> and <a class="xref" href="../Components/ConfirmationDialog/MBConfirmationDialog.html">MBConfirmationDialog</a> to set the dialog containers' CSS to <code>overflow: visible;</code>. This is
 an alternative way to have menu surfaces overflow from dialogs while, for instance, allowing for the FullWidth menu surface variant with MBSelect.</p>
+
 </article>
 
         <div class="contribution d-print-none">
@@ -108,7 +105,7 @@ an alternative way to have menu surfaces overflow from dialogs while, for instan
         </div>
 
         <div class="next-article d-print-none border-top" id="nextArticle"></div>
-        
+
       </div>
 
       <div class="affix">

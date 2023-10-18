@@ -29,11 +29,7 @@
       <meta name="loc:copy" content="Copy">
   </head>
 
-  <script type="module">
-    import options from './../../public/main.js'
-    import { init } from './../../public/docfx.min.js'
-    init(options)
-  </script>
+  <script type="module" src="./../../public/docfx.min.js"></script>
 
   <script>
     const theme = localStorage.getItem('theme') || 'auto'
@@ -100,6 +96,7 @@ There are varying parameters for these helper methods described in the <a class=
 <h2 id="other-components">Other Components</h2>
 <p>Many components such as MBButton, MBSelect and MBTextField take icons. In every instance these components take IconName
 and an optional IconFoundry parameters which are applied in the same way as for MBIcon. In fact they all use MBIcon.</p>
+
 </article>
 
         <div class="contribution d-print-none">
@@ -107,7 +104,7 @@ and an optional IconFoundry parameters which are applied in the same way as for 
         </div>
 
         <div class="next-article d-print-none border-top" id="nextArticle"></div>
-        
+
       </div>
 
       <div class="affix">

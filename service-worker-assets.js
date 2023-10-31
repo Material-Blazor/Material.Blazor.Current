@@ -241,7 +241,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-i7MtVvwUllKSyzgS7SwpDYQRUMP1CFAZPF0pRali6oU=",
+      "hash": "sha256-U2JK9GU2d2Rx+K2i89glLi+Se7jUfd+5Jzhxi0dKXN0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,15 +253,15 @@
       "url": "_framework\/Humanizer.wasm"
     },
     {
-      "hash": "sha256-V5Kh\/cwOduz8xprR3d2r7K0V1RbFuaL1cksfNBFazU0=",
+      "hash": "sha256-10c993Q7fhs+Y1IuiHYshZUH7su3q++7vs\/YQpKI3YI=",
       "url": "_framework\/Material.Blazor.wasm"
     },
     {
-      "hash": "sha256-G8au+\/LonOW5ShkOY0p0C3yCtSppFMkCSuUgVFt7zdU=",
+      "hash": "sha256-e6lTprwSBzEjqP1ZMfT1cGcE46XXVRWaVUUDxXW\/JAE=",
       "url": "_framework\/Material.Blazor.Website.wasm"
     },
     {
-      "hash": "sha256-KfICEW\/gk+N9JKa8iE+0HW972gfoBs7KR6Ge8ylWnZA=",
+      "hash": "sha256-Ph0W+K+zdoHj3u1LMT+If2yR8EKmE+UyYzjbwAjSjYU=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.wasm"
     },
     {
@@ -401,7 +401,7 @@
       "url": "_framework\/Serilog.Sinks.Async.wasm"
     },
     {
-      "hash": "sha256-GGDaJ3b8Wl6ROEHglLMaEkTdwOFFgDnBrBT9w45pDb0=",
+      "hash": "sha256-pHb9zDBNXsgZ2UKu\/2Z+6aPIr4FttMWpljOvmTpxEp4=",
       "url": "_framework\/Serilog.Sinks.BrowserConsole.wasm"
     },
     {
@@ -649,5 +649,5 @@
       "url": "_content\/Material.Blazor\/material.blazor.min.js"
     }
   ],
-  "version": "X80tMCR7"
+  "version": "5b5sOClh"
 };

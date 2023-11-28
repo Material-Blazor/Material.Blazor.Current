@@ -218,7 +218,7 @@
     },
     {
       "hash": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI=",
-      "url": "_framework\/dotnet.native.8.0.0.049gfco370.js"
+      "url": "_framework\/dotnet.native.8.0.0.cx60pm2snx.js"
     },
     {
       "hash": "sha256-Vr6ZXKoP77zgabrMIxQ1GbOkrxfx5XGqHO0odLhUIMY=",
@@ -226,7 +226,7 @@
     },
     {
       "hash": "sha256-WdSX3HQvnBYF0KJLZoOyHvTzMHetaob6PV0Kn2K+QXw=",
-      "url": "_framework\/dotnet.runtime.8.0.0.3nmxw8r8td.js"
+      "url": "_framework\/dotnet.runtime.8.0.0.14kkjimq5k.js"
     },
     {
       "hash": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -241,7 +241,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-VCKEPm5JnAueKVwdP74ajXz8H\/q2WUeyDI3zK9uM9\/A=",
+      "hash": "sha256-cxdpYQBWDAjr87P6JbhIrJjYUtRWQBskRtb0rdd1vv0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,15 +253,15 @@
       "url": "_framework\/Humanizer.wasm"
     },
     {
-      "hash": "sha256-izc3eWyWPiPBF22q3u3gARG+mGVupvmnHQF9wgT9LbM=",
+      "hash": "sha256-FWJbrdela9flcJwBCFIkOBSBnR59lOGn7w+5hxi2ksM=",
       "url": "_framework\/Material.Blazor.wasm"
     },
     {
-      "hash": "sha256-F7nFVHNapuhSX4l7C5SF3NnyX5Y3U2IpQzREzh11Fyc=",
+      "hash": "sha256-3czzL6NF5+RWcEzkkk6zaAG+69\/SW2y4lFJVGWik3JA=",
       "url": "_framework\/Material.Blazor.Website.wasm"
     },
     {
-      "hash": "sha256-SRebPwlaMw4Tk\/uJTfwhoaLs6xTrFiTfynnIXq8lvNE=",
+      "hash": "sha256-uObPuHwPfyFQXfJdokwZeGOcbtGyb04YxzxSLsBnGM8=",
       "url": "_framework\/Material.Blazor.Website.WebAssembly.wasm"
     },
     {
@@ -393,7 +393,7 @@
       "url": "_framework\/netstandard.wasm"
     },
     {
-      "hash": "sha256-gJy+QVZqnvTAtf0DPPi71MKKVXskhXuHbajvTL0tg0Y=",
+      "hash": "sha256-92hYjPt6HQIX8HGRPk\/QYW\/58wE14qiBy8Q\/Uuu9wGY=",
       "url": "_framework\/Serilog.Extensions.Logging.wasm"
     },
     {
@@ -405,7 +405,7 @@
       "url": "_framework\/Serilog.Sinks.BrowserConsole.wasm"
     },
     {
-      "hash": "sha256-\/PkS8LJ\/RH2Q0f5U9Cr1qEcMssZFAaojtiwumNLhPCw=",
+      "hash": "sha256-n7efRoswswjtAyXUEUkVcfxZ7woRqLEk21hpXjNR7fs=",
       "url": "_framework\/Serilog.wasm"
     },
     {
@@ -429,7 +429,7 @@
       "url": "_framework\/System.Collections.Specialized.wasm"
     },
     {
-      "hash": "sha256-wVsahyFtzroXaL3ViHMikwXpHbBcyGxJjqRGYAlEzGg=",
+      "hash": "sha256-WM6x7IaKz60rGNIBOibuaTQ85CPmnqfT3JY4lhGa9OU=",
       "url": "_framework\/System.Collections.wasm"
     },
     {
@@ -453,7 +453,7 @@
       "url": "_framework\/System.Console.wasm"
     },
     {
-      "hash": "sha256-PxowKp3oXPN2tJ17lxFkH8Ji2D7YgQ3++RH4zp41kHU=",
+      "hash": "sha256-dzoFPtwuq9Uu1ggovqe1clzXidrrnxXt4ISi\/8f9pPk=",
       "url": "_framework\/System.Diagnostics.DiagnosticSource.wasm"
     },
     {
@@ -477,7 +477,7 @@
       "url": "_framework\/System.Linq.Expressions.wasm"
     },
     {
-      "hash": "sha256-AWcrFo\/NrH4I9vUD2+DPW4CbhuSKhAOnmxe4546NvTQ=",
+      "hash": "sha256-QVo+eYeiQHseL18iaf1+dXK05QU7AvB4EopBRujteoc=",
       "url": "_framework\/System.Linq.wasm"
     },
     {
@@ -501,7 +501,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-e+omlkEcgch1cPTCnLDipNFUXOXVw2Foe+o5O6Z9120=",
+      "hash": "sha256-1IL4XVW+kfe3WAkBOMTCEfkYP4yTInjw66hDRqSIAgM=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -517,7 +517,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-zIffdTQziM2XIGUCcHlNLJa67vi3PR7CqWEG5rxLztw=",
+      "hash": "sha256-fEep\/hnfeBxY5t2oMurXlaJgZ0+5rMXUNoD2L6AhfYI=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -537,7 +537,7 @@
       "url": "_framework\/System.Text.Json.wasm"
     },
     {
-      "hash": "sha256-jFsT5BALRarkUnzTU1PFbEhCSrIxpAU\/HPnkIavwVAs=",
+      "hash": "sha256-pTanKWhCb9xnyUDRVyoqJMnqMGlCkhpwFMkN6BUfMus=",
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
@@ -649,5 +649,5 @@
       "url": "_content\/Material.Blazor\/material.blazor.min.js"
     }
   ],
-  "version": "JJ7voJCK"
+  "version": "awWqZG41"
 };

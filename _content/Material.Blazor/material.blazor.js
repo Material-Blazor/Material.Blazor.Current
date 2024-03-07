@@ -16701,18 +16701,25 @@ function throttle(func, wait, options) {
 
 ;// CONCATENATED MODULE: ./Scripts/rtl.ts
 function isDocumentRTL() {
-  return true; // document.documentElement.getAttribute("dir") === "rtl";
+  var dir = document.documentElement.getAttribute("dir");
+  return !dir || dir.toLowerCase() === "rtl";
 }
 function isElementRTL(elem) {
   if (!elem) {
     return false;
   }
   var dirElem = elem;
-  var dir = null;
-  for (; dirElem && dirElem !== document && !dir; dirElem = dirElem.parentNode) {
+  var dir = "";
+  for (; dirElem && dirElem !== document && (!dir || dir === ""); dirElem = dirElem.parentNode) {
     dir = dirElem.getAttribute("dir");
+    if (dir && dir.length > 0) {
+      dir = dir.toLowerCase();
+      if (dir === "ltr" || dir === "auto") {
+        break;
+      }
+    }
   }
-  return dir === "rtl";
+  return dir !== null && dir.toLowerCase() === "rtl";
 }
 ;// CONCATENATED MODULE: ./Components/Slider/MBSlider.ts
 
@@ -22563,18 +22570,25 @@ function MBTopAppBar_init(elem, scrollTarget) {
 }
 ;// CONCATENATED MODULE: ./scripts/rtl.ts
 function rtl_isDocumentRTL() {
-  return true; // document.documentElement.getAttribute("dir") === "rtl";
+  var dir = document.documentElement.getAttribute("dir");
+  return !dir || dir.toLowerCase() === "rtl";
 }
 function rtl_isElementRTL(elem) {
   if (!elem) {
     return false;
   }
   var dirElem = elem;
-  var dir = null;
-  for (; dirElem && dirElem !== document && !dir; dirElem = dirElem.parentNode) {
+  var dir = "";
+  for (; dirElem && dirElem !== document && (!dir || dir === ""); dirElem = dirElem.parentNode) {
     dir = dirElem.getAttribute("dir");
+    if (dir && dir.length > 0) {
+      dir = dir.toLowerCase();
+      if (dir === "ltr" || dir === "auto") {
+        break;
+      }
+    }
   }
-  return dir === "rtl";
+  return dir !== null && dir.toLowerCase() === "rtl";
 }
 ;// CONCATENATED MODULE: ./scripts/material.blazor.ts
 

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -6,7 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Material.Blazor</title>
     <base href="/Material.Blazor.Current/" />
-    
+
+    <!-- OverrideHtmlAssetPlaceholders: the build fills the import map, the preload list and the  markers -->
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.nv11mnxpl9.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.nkt61nz8g3.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.ugqrx02wa3.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.js": "sha256-QmDiGwq3gtnkRf9dMvr2DGXypclgikcbDD2t+USPzM0=",
+    "./_framework/dotnet.native.js": "sha256-w6F366YJDQNn7Ps9CqVVX/MsVnnhKcPWArY6/cglqpk=",
+    "./_framework/dotnet.native.nv11mnxpl9.js": "sha256-w6F366YJDQNn7Ps9CqVVX/MsVnnhKcPWArY6/cglqpk=",
+    "./_framework/dotnet.runtime.js": "sha256-N2jQlW1SnXkikWXsDWyFWl07L/Fkp2CBlsBahkF1Im8=",
+    "./_framework/dotnet.runtime.nkt61nz8g3.js": "sha256-N2jQlW1SnXkikWXsDWyFWl07L/Fkp2CBlsBahkF1Im8=",
+    "./_framework/dotnet.ugqrx02wa3.js": "sha256-QmDiGwq3gtnkRf9dMvr2DGXypclgikcbDD2t+USPzM0="
+  }
+}</script>
+    <link href="_framework/dotnet.ugqrx02wa3.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-QmDiGwq3gtnkRf9dMvr2DGXypclgikcbDD2t+USPzM0=" />
+
     <link href="_content/Material.Blazor.Website/icons/icon-512.png" rel="apple-touch-icon" sizes="512x512">
     <link href="_content/Material.Blazor.Website/icons/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
     <link href="_content/Material.Blazor.Website/icons/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
@@ -43,7 +65,7 @@
         <a class="dismiss">🗙</a>
     </div>
 
-    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js"></script>
 
     <script src="_content/Material.Blazor/material.blazor.min.js"></script>
     <script src="_content/Material.Blazor.Website/js/material.blazor.website.js"></script>
